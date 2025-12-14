@@ -89,6 +89,7 @@ body {
 	border-radius: 15px;
 	padding: 35px;
 	display: grid;
+	box-shadow: 3px 7px 7px lightgray;
 }
 
 .project-cards .card {
